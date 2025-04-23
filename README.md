@@ -1,4 +1,5 @@
-#### This is the repository for second semester project, 'League Manager'. 
+# League Manager
+
 #### League Manager is a software that allows a person to easily manage a football league or football tournament as the host by:
 1. Determing the matches for the league.
 2. Auto scheduling the matches(if needed).
