@@ -7,6 +7,6 @@
 4. Displaying them in a simple, readable form.
 #### with the use of input data related to the league or tournament provided by the user that mostly includes team information and details of every match(like final score and goal scorers).
 
-##### Programming Languages used: C++ 
+##### Programming Languages: C++ 
 ##### Frontend Framework: Qt
 ##### Database: sqlite3
